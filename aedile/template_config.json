@@ -1,0 +1,9 @@
+{
+  "bot_name": "MyBotName",
+  "bot_token": "MyBotToken",
+  "polling_wait": 60,
+  "whitelisted_chat_ids": [
+    000000000,
+  ],
+  "chats_file": "chats.pickle"
+}
